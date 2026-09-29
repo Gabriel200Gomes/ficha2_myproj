@@ -1,0 +1,8 @@
+o exemplo de um ficheiro de texto file3
+
+haaaaaa
+Informações a mais ...---...
+
+
+
+Estou na NovaFeature
